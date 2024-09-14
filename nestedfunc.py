@@ -11,3 +11,4 @@ def outer_function():
     return inner_function()
 
 outer_function()
+
