@@ -1,0 +1,10 @@
+ip_address,hostname,device_type,pod_id
+198.18.134.20,rtr-edge0.lab.local,cisco_ios,20
+198.18.134.21,rtr-edge1.lab.local,cisco_ios,21
+198.18.134.22,rtr-edge2.lab.local,cisco_ios,22
+198.18.134.220,spine-sw-0.lab.local,cisco_ios,220
+192.18.134.221,spine-sw-1.lab.local,cisco_ios,221
+198.18.134.222,spine-sw-2.lab.local,cisco_ios,222
+198.18.134.10,brch-rtr-0.lab.local,cisco_ios,10
+198.18.134.11,brch-rtr-1.lab.local,cisco_ios,11
+198.18.134.12,brch-rtr-2.lab.local,cisco_ios,12
