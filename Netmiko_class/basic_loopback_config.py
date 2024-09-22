@@ -20,8 +20,7 @@ def main():
             username = os.getenv('USERNAME')
             password = os.getenv('PASSWORD')
             configure_devices(device_info,username,password)
-         
-
+    
 
 # Function to configure Cisco Devices
 
@@ -56,7 +55,6 @@ def configure_devices(device_info,username,password):
 
 if __name__ == '__main__':
     main()
-
 
 
 
