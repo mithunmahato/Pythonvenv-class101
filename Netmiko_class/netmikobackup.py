@@ -43,10 +43,10 @@ def take_backup(device_info,username,password):
 
     try:
         # Taking backup
-        command = [
-            "terminal pager 0",
-            "show running-config"
-        ]
+        # command = [
+        #     "terminal pager 0",
+        #     "show running-config"
+        # ]
 
         backup_output = device.send_command("show running-config")
 
